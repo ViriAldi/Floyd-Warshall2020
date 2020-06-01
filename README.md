@@ -13,6 +13,8 @@
 
 * Follow input instructions
 
+> Note: if you have other compiler use it's name on the place of g++. If you don't have C++ compiler then install it or try some of online compilers. For example this one is pretty good: https://www.onlinegdb.com/online_c++_compiler
+
 ### Installation and usage example
 
 ![usage](examples/usage.png)
