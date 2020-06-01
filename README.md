@@ -13,7 +13,9 @@
 
 * Follow input instructions
 
-### Installation ans usage example
+### Installation and usage example
+
+![usage](examples/usage.png)
 
 ## Credits
 
